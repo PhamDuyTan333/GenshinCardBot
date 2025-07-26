@@ -24,6 +24,7 @@ CARDS = [
     {"name": "Fischl", "type": "character", "power": 70, "element": "Lôi", "rarity": "Hiếm", "image": "https://blog.rrqtopup.com/wp-content/uploads/2025/03/Fischl_Birthday_2023-1000x768.webp"},
     {"name": "Noelle", "type": "character", "power": 65, "element": "Nham", "rarity": "Thường", "image": "https://upload-os-bbs.hoyolab.com/upload/2024/03/21/238848438/7e36c698a0fe48d7573fa0ea0572ddfa_3253550726833357605.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70"},
     {"name": "Barbara", "type": "character", "power": 60, "element": "Thủy", "rarity": "Thường", "image": "https://lensmate.co.uk/cdn/shop/files/barbara.jpg?v=1714394489"},
+    {"name": "Mavuica", "type": "character", "power": 90, "element": "Hỏa", "rarity": "Huyền Thoại", "image": "https://rapi.pixai.art/img/media/478979262116699077/orig"},
     # Thẻ hành động
     {"name": "Paimon", "type": "action", "power": 10, "element": "None", "rarity": "Thường", "image": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/11/Paimon.jpg", "effect": "Tăng 10 sát thương cho thẻ nhân vật"},
 ]
