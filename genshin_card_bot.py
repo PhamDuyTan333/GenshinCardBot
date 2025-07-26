@@ -25,10 +25,7 @@ CARDS = [
     {"name": "Noelle", "type": "character", "power": 65, "element": "Nham", "rarity": "Thường", "image": "https://upload-os-bbs.hoyolab.com/upload/2024/03/21/238848438/7e36c698a0fe48d7573fa0ea0572ddfa_3253550726833357605.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70"},
     {"name": "Barbara", "type": "character", "power": 60, "element": "Thủy", "rarity": "Thường", "image": "https://lensmate.co.uk/cdn/shop/files/barbara.jpg?v=1714394489"},
     # Thẻ hành động
-    {"name": "Paimon", "type": "action", "power": 10, "element": "None", "rarity": "Thường", "image": "https://genshin.honeyhunterworld.com/img/char/paimon_099.webp", "effect": "Tăng 10 sát thương cho thẻ nhân vật"},
-    {"name": "Tiên Nhảy Tường", "type": "action", "power": 15, "element": "None", "rarity": "Hiếm", "image": "https://genshin.honeyhunterworld.com/img/item/delicious_jade_parcels_510.webp", "effect": "Tăng 15 sát thương cho toàn đội"},
-    {"name": "Cộng Hưởng Hỏa", "type": "action", "power": 20, "element": "Hỏa", "rarity": "Hiếm", "image": "https://genshin.honeyhunterworld.com/img/item/pyro_regisvine_302.webp", "effect": "Tăng 20 sát thương nếu thẻ nhân vật là Hỏa"},
-    {"name": "Lời Nguyện Gió", "type": "action", "power": 15, "element": "Phong", "rarity": "Hiếm", "image": "https://genshin.honeyhunterworld.com/img/item/anemo_hypostasis_301.webp", "effect": "Chuyển đổi thẻ nhân vật sang nguyên tố Phong"},
+    {"name": "Paimon", "type": "action", "power": 10, "element": "None", "rarity": "Thường", "image": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/11/Paimon.jpg", "effect": "Tăng 10 sát thương cho thẻ nhân vật"},
 ]
 
 # Xác suất gacha theo độ hiếm
