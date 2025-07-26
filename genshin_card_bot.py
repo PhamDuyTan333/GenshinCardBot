@@ -126,7 +126,7 @@ async def cards(ctx):
             embed = discord.Embed(title=f"Bộ sưu tập của {ctx.author.name}", color=discord.Color.blue())
             for card in cards:
                 embed.add_field(
-                    name=card[0],  # Fixed: Changed 'nameirty' to 'name=card[0]'
+                    name=card[0],  # Đã sửa từ 'nameirty'
                     value=f"Loại: {card[1].capitalize()}\nSức mạnh: {card[2]}\nNguyên tố: {card[3]}\nĐộ hiếm: {card[4]}",
                     inline=True
                 )
